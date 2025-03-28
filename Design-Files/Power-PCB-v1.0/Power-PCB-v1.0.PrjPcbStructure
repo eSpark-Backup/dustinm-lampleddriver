@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Main_Power_Sheet.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_DRIVER_BUC_Sheet|SchDesignator=U_DRIVER_BUC_Sheet|FileName=DRIVER_BUC_Sheet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DRIVER_BUC_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Main_Power_Sheet|SchDesignator=U_Main_Power_Sheet|FileName=Main_Power_Sheet.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Main_Power_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
