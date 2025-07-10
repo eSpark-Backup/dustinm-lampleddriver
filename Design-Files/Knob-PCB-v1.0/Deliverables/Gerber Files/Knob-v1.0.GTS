@@ -1,12 +1,12 @@
 G04*
-G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,24.5.2 (23)*
+G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,23.4.1 (23)*
 G04*
 G04 Layer_Color=8388736*
 %FSLAX44Y44*%
 %MOMM*%
 G71*
 G04*
-G04 #@! TF.SameCoordinates,3B682EAC-13D0-4575-93CF-16CA667A5610*
+G04 #@! TF.SameCoordinates,C64DFEF4-2118-4D54-9411-E0EDBE5C3D49*
 G04*
 G04*
 G04 #@! TF.FilePolarity,Negative*
@@ -142,7 +142,6 @@ G04:AMPARAMS|DCode=65|XSize=0.755mm|YSize=0.5772mm|CornerRadius=0mm|HoleSize=0mm
 %ADD67C,0.2032*%
 %ADD68R,1.9000X1.9000*%
 %ADD69C,1.9000*%
-%ADD70C,0.8032*%
 D41*
 X377260Y1095580D02*
 D03*
@@ -505,14 +504,5 @@ D69*
 Y592020D02*
 D03*
 Y617020D02*
-D03*
-D70*
-X-35560Y505460D02*
-D03*
-X-15240Y497840D02*
-D03*
-Y389222D02*
-D03*
-X-46013Y379548D02*
 D03*
 M02*

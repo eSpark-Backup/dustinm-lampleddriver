@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Knob-v1.0.PcbDoc   6/5/2025  7:41:31 PM
+NCDrill File Report For: Knob-v1.0.PcbDoc   7/10/2025  6:15:12 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,11 @@ ASCII RoundHoles File : Knob-v1.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             197       PTH        1024.41mm (40.33inch)
-T2      1mm (39mil)                                               Round             3         PTH        5.00mm (0.20inch)
-T3      3.1mm (122mil)                                            Round             8         PTH        357.97mm (14.09inch)
+T1      0.25mm (10mil)                                            Round             12        PTH        11.92mm (0.47inch)
+T2      0.3mm (12mil)                                             Round             208       PTH        1011.76mm (39.83inch)
+T3      1mm (39mil)                                               Round             3         PTH        5.00mm (0.20inch)
+T4      3.1mm (122mil)                                            Round             8         PTH        357.97mm (14.09inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              208
+Totals                                                                              231
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
