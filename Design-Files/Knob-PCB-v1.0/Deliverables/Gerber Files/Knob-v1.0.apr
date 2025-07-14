@@ -76,8 +76,7 @@ D126  RECTANGULAR        27.685      70.992       0.000 FLASH     270.000
 D127  RECTANGULAR        55.244      78.866       0.000 FLASH     270.000
 D128  RECTANGULAR        51.307      31.622       0.000 FLASH       0.000
 D129  RECTANGULAR        45.512      65.512       0.000 FLASH       0.000
-D130  ROUNDED            31.622      31.622       0.000 FLASH       0.000
-D131  ROUNDED             7.874       7.874       0.000  LINE       0.000
-D132  ROUNDED             0.126       0.126       0.000  LINE       0.000
-D133  ROUNDED            16.000      16.000       0.000  LINE       0.000
-D134  ROUNDED             1.000       1.000       0.000  LINE       0.000
+D130  ROUNDED             7.874       7.874       0.000  LINE       0.000
+D131  ROUNDED             0.126       0.126       0.000  LINE       0.000
+D132  ROUNDED            16.000      16.000       0.000  LINE       0.000
+D133  ROUNDED             1.000       1.000       0.000  LINE       0.000
