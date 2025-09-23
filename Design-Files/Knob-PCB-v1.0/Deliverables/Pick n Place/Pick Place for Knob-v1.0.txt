@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-S:\dustinm-lampleddriver\Design-Files\Knob-PCB-v1.0\Project Outputs for Knob-PCB-v1.0\Pick Place for Knob-v1.0.txt
+C:\Users\haroon traders\Documents\GitHub\dustinm-lampleddriver\Design-Files\Knob-PCB-v1.0\Project Outputs for Knob-PCB-v1.0\Pick Place for Knob-v1.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       10/07/25
-Time:       18:37
-Revision:   9e7d15ccf32bb019ca78104ad18ecf4b51c93c28
+Date:       23/09/25
+Time:       12:37
+Revision:   7c30f70349c23406c126066990c7a706db51a1fa
 Variant:    No variations
 Units used: mm
 

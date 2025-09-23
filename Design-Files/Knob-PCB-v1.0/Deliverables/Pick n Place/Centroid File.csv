@@ -1,4 +1,4 @@
-Designator,Center-X(mm),Center-Y(mm),Layer,Rotation
+Designator,Mid X,Mid Y,Layer,Rotation
 C1,33.0790mm,57.5350mm,Bottom,0
 C2,32.8377mm,55.6300mm,Bottom,0
 C3,37.7040mm,62.9960mm,Bottom,270
@@ -84,14 +84,23 @@ R10,22.5268mm,57.3620mm,Bottom,180
 R11,22.5270mm,60.1500mm,Bottom,180
 R12,22.5270mm,58.8750mm,Bottom,180
 R13,13.6692mm,68.0715mm,Bottom,90
+R14,6.0480mm,68.3767mm,Bottom,270
 R15,11.1290mm,68.3767mm,Bottom,270
+R16,37.1081mm,49.1219mm,Bottom,0
 R17,37.1081mm,50.6219mm,Bottom,0
 R18,30.9376mm,19.3399mm,Bottom,90
 R19,13.0307mm,45.1701mm,Bottom,270
+R20,38.5654mm,20.5873mm,Bottom,90
 R21,9.8587mm,68.3767mm,Bottom,270
 R22,60.4561mm,49.8747mm,Bottom,0
 R23,60.4561mm,52.1828mm,Bottom,180
 R24,46.0330mm,51.9532mm,Bottom,0
+R25,49.5384mm,51.1782mm,Bottom,90
+R26,50.8761mm,51.1782mm,Bottom,90
+R27,52.2139mm,51.1782mm,Bottom,90
+R28,53.5516mm,51.1782mm,Bottom,90
+R29,12.3992mm,68.3767mm,Bottom,270
+TP1,16.9324mm,69.2150mm,Bottom,180
 U1,31.8769mm,61.8559mm,Bottom,270
 U2,9.2242mm,56.9394mm,Bottom,270
 U3,35.8210mm,109.5580mm,Top,0
